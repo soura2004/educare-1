@@ -1,2 +1,2 @@
 # educare-1
-Educational Websiote
+Educational Website
